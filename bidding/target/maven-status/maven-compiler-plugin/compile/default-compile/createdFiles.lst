@@ -1,0 +1,6 @@
+com\bidding\service\BidService.class
+com\bidding\repository\Bidrepository.class
+com\bidding\controller\IndexController.class
+com\bidding\BiddingApplication.class
+com\bidding\model\User.class
+com\bidding\service\IBidService.class
